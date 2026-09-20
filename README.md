@@ -88,6 +88,13 @@ me.hi()
         <strong>Root Me</strong>
       </a>
     </td>
+    <td align="center" width="25%">
+      <a href="https://profile.hackthebox.com/profile/019ddcce-e674-72f2-bdb1-f3ec5614b4c1" target="_blank">
+        <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/6358035bc5508bc6b4f33a52/0x0.png" width="160" />
+        <br/>
+        <strong>HackTheBox</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
