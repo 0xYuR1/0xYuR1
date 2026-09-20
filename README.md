@@ -62,7 +62,7 @@ me.hi()
   <tr>
     <td align="center" width="25%">
       <a href="https://tryhackme.com/p/YuR1" target="_blank">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png" width="160" />
+        <img src="https://tryhackme-badges.s3.amazonaws.com/YuR1.png" width="160" />
         <br/>
         <strong>TryHackMe</strong>
       </a>
