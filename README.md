@@ -61,14 +61,14 @@ me.hi()
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <a href="https://tryhackme.com/p/hack4gov003" target="_blank">
+      <a href="https://tryhackme.com/p/YuR1" target="_blank">
         <img src="https://tryhackme-badges.s3.amazonaws.com/hack4gov003.png" width="160" />
         <br/>
         <strong>TryHackMe</strong>
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://play.picoctf.org/users/FanAndreas" target="_blank">
+      <a href="https://play.picoctf.org/users/oxyur1" target="_blank">
         <img src="https://miro.medium.com/v2/1*0FYnt8IngPu-OTy5CGjFZg.png" width="160" />
         <br/>
         <strong>PicoCTF</strong>
@@ -82,7 +82,7 @@ me.hi()
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://www.root-me.org/Fan2K?lang=en" target="_blank">
+      <a href="https://www.root-me.org/0xYuR1?lang=en" target="_blank">
         <img src="https://nerdkakashi.github.io/assets/images/Rootme-Graphql-introspection/Rootme.webp" width="160" />
         <br/>
         <strong>Root Me</strong>
