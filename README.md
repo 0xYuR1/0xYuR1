@@ -75,7 +75,7 @@ me.hi()
       </a>
     </td>
     <td align="center" width="25%">
-      <a href="https://ctflearn.com/user/Fan2K" target="_blank">
+      <a href="https://ctflearn.com/user/YuR1" target="_blank">
         <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Ul182VTK_iCh-0UOBC824g.png" width="160" />
         <br/>
         <strong>CTFlearn</strong>
